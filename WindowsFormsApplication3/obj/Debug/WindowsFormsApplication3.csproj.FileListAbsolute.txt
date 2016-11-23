@@ -1,0 +1,1025 @@
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication04\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication05 наращиваем гуй\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.MainForm.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication06 Пробуем кнопки вместо панелей\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_panels.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication07 Планшето-дизайн\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Project.GuiComponents.StepSwitcher.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_panels.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Project.GuiComponents.StepSwitcher.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication08 Планшето-дизайн_(переход этапа отдаём этапам)\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_panels.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Project.GuiComponents.StepSwitcher.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main2.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication09 встраиваем навигатор\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_panels.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Project.GuiComponents.StepSwitcher.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main2.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication10 настраиваем смену страниц\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_panels.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Project.GuiComponents.StepSwitcher.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main2.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Editing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_Next.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication11 смена страниц с отправкой-приёмкой списков\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication12 убираем устаревший код\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication13 изменяем иерархию папок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication14 отказываемся от навигатора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication15 создаём класс-проверятор адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication16 теперь формы задают пары host-uri\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication17 снова работаем над проверятором адресов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication18 2 httpclienta. Связаны ли тормоза с PingMultitask\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication19 Переносим PingCancellation\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication20 Вытаскиваем из формы проверки систему проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication21 Из формы проверки выносим проверятора\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21 Отлаживаем систему проверок\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\WindowsFormsApplication23_21_2 Думаем что делать с хандлерами\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\24 Реставрируем OpenDialog\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\25 Реставрируем отображение адресов после загрузки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\26 Блокируем редактирование адресов на форме проверки. И чистим при проверке\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\27 пробуем использовать списки вместо datatable\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\28 рендерим результаты запросов\WindowsFormsApplication3\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем облегчить взаимодействие datagridview и списков через BindingListView\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.dll
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\29 Пробуем BindingListView - fail\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\31 29 Прибераемся в коде\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\32 Продолжаем прибераться\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\32 Код почищен\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\32 Код почищен\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\32 Код почищен\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\33 Делаем заполнитель\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SubForm_GeneratorIP.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\34 Избавляемся от лишней строки при добавлении в редактирование\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddressMini.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\35 Делаем рандомизатор\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddressMini.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\37 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddressMini.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\38 Выносим взаимодействие pageEditing и компонентов во вне\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_RandomAddressMini.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\39\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\40 дотачиваем формочки ip и объединение в uri\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\41 исправляем багу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\42 Реализовываем сохранение\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\43 добавляем прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main_Minimalism.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\44 выводим прогресс\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.StripNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\AdditionalControlls.StepNavigator.Settings.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.PageNavigator.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\46 _ 44 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\47 готовим к релизу\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\48 готовим к релизу\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\49\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\50\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\51\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\52\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\53\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\54 й\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\55\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\55 iprer разнесён на IpOperations и AddressGenerator\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\55 iprer разнесён на IpOperations и AddressGenerator\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\55 iprer разнесён на IpOperations и AddressGenerator\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\56 q\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\57 a\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\58 Рассматриваем program\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\59 Релиз пытаемся исправить панельку\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\bin\Debug\Equin.ApplicationFramework.BindingListView.pdb
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressChecking.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_AddressEditing.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormDialog.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.FormMain.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_DiapasonAddressChoser.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form_RandomAddress.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Page_Main.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Overlord\Root\Work\Бевард\program\61 Пробуем ещё\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Overlord\Root\Work\Бевард\program\61 Релиз\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Overlord\Root\Work\Бевард\program\61 Релиз\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Overlord\Root\Work\Бевард\program\61 Релиз\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
